@@ -2,7 +2,7 @@
 This repository contains the notebook, data and submission file that secured an RMSE score of 17.31265 private score and 26.27123 public score. The models in this notebook attempted to predict the price of a bottle of wine based on a collection of over one hundred thousand reviews and other product features. 
 
 ## Data description
-The [data](kaggle competitions download -c ammi-bootcamp-kaggle-competition) summarize 258210 wine reviews:
+The [data][kaggle competitions download -c ammi-bootcamp-kaggle-competition] summarize 258210 wine reviews:
 
 • 175000 are the training set, the data on which to train your models;
 
