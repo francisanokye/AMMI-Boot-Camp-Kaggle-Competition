@@ -1,5 +1,5 @@
 # AMMI-Boot-Camp-Kaggle-Competition
-This repository contains the notebook and submission file that scored best at AMMI Rwanda in the boot camp competition organized at the end of the 2 week boot camp. The random forest regressor secured an RMSE score of 17.31265 private score and 26.27123 public score. The models in the notebook attempted to predict the price of a bottle of wine based on a collection of over one hundred thousand reviews and other product features. 
+This repository contains our solution that ranked 1st at AMMI Rwanda in the boot camp competition organized at the end of the 2 weeks boot camp. The random forest regressor secured an RMSE score of 17.31265 private score and 26.27123 public score. The models in the notebook attempted to predict the price of a bottle of wine based on a collection of over one hundred thousand reviews and other product features. 
 
 ## Data description
 The [data][kaggle competitions download -c ammi-bootcamp-kaggle-competition] summarize 258210 wine reviews:
